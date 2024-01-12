@@ -1,0 +1,199 @@
+:root{
+    --black: #00285B;
+    --DarkGrey:#A6A6AD ;
+    --LightGrey:#AAABB0 ;
+    --Blue: #505C6A;
+    --BtnColor:#03295A;
+    --BtnTyping:#EEFAFF;
+}
+*{
+    background-color: #EEF5FF;
+}
+.all{
+    background-color: #FFFFFF;
+    width: 60%;
+    height: 600px;
+    margin-left: 20%;
+    margin-top: 50px;
+    border-radius: 12px;
+}
+.background{
+    height: 94%;
+    margin-top: 2%;
+    margin-left: 2%;
+    border-radius: 12px;
+}
+.num{
+    width: 40px;
+    border-radius: 100%;
+    border: 10px solid white;
+    margin-left: 50px;
+    color: white;
+    background-color: transparent;
+}
+#numOne{
+    margin-top: -530px;
+    color: black;
+    background-color: #BCDFFC;
+}
+.stop{
+    background-color: transparent;
+    margin-left:30%;
+    margin-top: 150px;
+}
+.step{
+    margin-left: 100px;
+    margin-top: -50px;
+    color: white;
+    font-family:Verdana, sans-serif ;
+    background-color: transparent;
+    background-color: #FFFFFF;
+}
+.StepTitle{
+    color: white;
+    background-color: #FFFFFF;
+    font-family:Verdana, sans-serif ;
+    margin-left: 100px;
+    margin-top: -10px;
+}
+.steppp{
+    margin-left: 400px;
+    margin-top: -270px;
+    background-color: #FFFFFF;
+}
+.title {
+    color: var(--black);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    background-color: #FFFFFF;
+    margin-left: 22%;
+    margin-top: 10px;
+}
+.des {
+    background-color: #FFFFFF;
+    color: var(--LightGrey);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: -20px;
+    margin-bottom: 30px;
+    width: 500px; 
+}
+.firstTitle {
+    background-color: #FFFFFF;
+    color: var(--black);
+    font-size: 20px;
+}
+input{
+    border-radius: 8px;
+    border: 1px solid var(--DarkGrey);
+    width: 480px;
+    height: 40px;
+    padding-left: 20px;
+    margin-top: -20px;
+    background-color: #FFFFFF;
+}
+.btn {
+    background-color: #483EFF;
+    color: var(--BtnTyping);
+    font-size: 20px;
+    margin-left: 55%;
+    position: relative;
+    top: 100px;
+    border-radius: 8px;
+    padding: 10px 30px ;
+    
+}
+.back{
+    border: none;
+    outline-style: none;
+    color: var(--DarkGrey);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: transparent;
+    width: 100px;
+    position: relative;
+    top: 120px;
+}
+.firstAll {
+    background-color: #F8F9FE;      
+    width: 400px;
+    height: 200px;
+    padding-left: 20px;
+    border-radius: 8px;
+}
+.Arcade_Mounthly {
+    background-color: transparent; 
+    color: var(--black);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.change {
+    background-color: #F8F9FE; 
+    color: var(--DarkGrey);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: -10px;
+}
+.nine_mo {
+    background-color: #F8F9FE; 
+    color: var(--black);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: -60px;
+    margin-left: 80%;
+    letter-spacing: 1px;
+}
+.Online_service {
+    background-color: #F8F9FE;
+    color: var(--DarkGrey);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 60px;
+}
+.one_mo {
+    background-color: #F8F9FE; 
+    color: var(--black);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: -40px;
+    margin-left: 80%;
+    letter-spacing: 1px;
+}
+.Larger_storage {
+    background-color: #F8F9FE; 
+    background-color: #F8F9FE;
+    color: var(--DarkGrey);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.two_mo {
+    background-color: #F8F9FE;
+    color: var(--black);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: -40px;
+    margin-left: 80%;
+    letter-spacing: 1px; 
+}
+.allSecond {
+    background-color: #F8F9FE; 
+}
+.Total_per {
+    background-color: white;
+    color: var(--DarkGrey);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+.twelve_mo {
+    background-color: white;
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: -34px;
+    margin-left: 65%;
+    letter-spacing: 1px; 
+}
